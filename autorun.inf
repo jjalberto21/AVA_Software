@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+[autorun]
+open=setup.exe
+icon=setup.exe,0
+=======
+[autorun]
+open=setup.exe
+icon=setup.exe,0
+>>>>>>> 00acb7467481a11ba07f529ee92c2ff4d338a60d
